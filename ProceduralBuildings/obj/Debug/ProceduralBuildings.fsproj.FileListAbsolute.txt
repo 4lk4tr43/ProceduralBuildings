@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\ProceduralBuildings.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\ProceduralBuildings.XML
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\ProceduralBuildings.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\ProceduralBuildings.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\FSharp.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\bin\Debug\FSharp.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\obj\Debug\ProceduralBuildings.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ProceduralBuildings\ProceduralBuildings\obj\Debug\ProceduralBuildings.pdb
